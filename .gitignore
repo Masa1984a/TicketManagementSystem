@@ -1,0 +1,29 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# 仮想環境
+.venv/
+venv/
+ENV/
+
+# 秘密鍵ファイル (ファイル名を固定している場合)
+firebase-credentials.json
+# またはサービスアカウントキーの一般的なパターン
+*-credentials.json
+*.privatekey
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# エディタ/IDE設定ファイル
+.vscode/
+.idea/

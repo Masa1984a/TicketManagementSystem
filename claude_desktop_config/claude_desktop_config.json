@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "TicketManagementSystem": {
+      "command": "uv",
+      "args": [
+        "--directory", "C:\\temp\\TicketManagementSystem",
+        "run",
+        "main.py"
+      ]
+    }
+  }
+}
