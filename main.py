@@ -55,7 +55,7 @@ def get_ticket_list(
     statusId: Optional[str] = None,
     scheduledCompletionDateFrom: Optional[str] = None,
     scheduledCompletionDateTo: Optional[str] = None,
-    showCompleted: Optional[bool] = True,
+    showCompleted: Optional[bool] = False,
     searchQuery: Optional[str] = None,
     sortBy: str = "receptionDateTime",
     sortOrder: str = "desc",
