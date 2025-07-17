@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/masa1984a-ticketmanagementsystem-badge.png)](https://mseep.ai/app/masa1984a-ticketmanagementsystem)
+
 # チケット管理システム - MCP/Firebase 連携
 
 このプロジェクトは、Claude for Desktop (MCPクライアント) とFirebase Firestoreを連携させ、チケット管理システムを実現するMCPサーバーを提供します。
